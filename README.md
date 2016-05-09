@@ -21,6 +21,7 @@ Domain'e whois çektiğinizde ise website alt yapısının **CLoudFlare** taraf�
 Sorunun çözümü ise : CloudFlare'in name serverlarını gizlediği siteleri açığa çıkaran **Crime Flare** isimli bir oluşum.
 Bu site üzerinden altinkaynak.biz  aratıldığı zaman hosting firmasının ve flag'ımızın **Alastry** olduğunu bulabilirdik.
 
+=====
 #### • Web 2
 
 ![Web1](images/web2.png)
@@ -35,6 +36,7 @@ Derste öğrendiğimiz dosya adını engelleme konusunu düşündüm ve URL'deki
 
 ![Web1](images/web2_cozum.png)
 
+=====
 #### • Web 3
 
 ![Web1](images/web3.png)
@@ -49,6 +51,7 @@ Bunun için bir ***Firefox eklentisi olan "x-forwarded-for"*** veya bir ***Chrom
 
 ![Web1](images/web3_cozum.png)
 
+=====
 #### • Web 4
 
 ![Web1](images/web4.png)
@@ -66,6 +69,7 @@ Bundan kuşkulanarak **"flag.txt"** komutunu yazdığımda ise yine bir sonuçla
 
 > **"cat flag.txt"** ==> Tebrikler Alpay, flag{ekinler_bas_vermeden_kor_buzagi_topallamazmis}
 
+=====
 #### • Web 5
 
 ![Web5](images/web5.png)
